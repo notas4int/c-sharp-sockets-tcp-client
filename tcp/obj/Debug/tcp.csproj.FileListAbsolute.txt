@@ -1,0 +1,6 @@
+C:\Users\artem\OneDrive\Рабочий стол\documents\lebedev\C#_web\tcp\tcp\bin\Debug\tcp.exe
+C:\Users\artem\OneDrive\Рабочий стол\documents\lebedev\C#_web\tcp\tcp\bin\Debug\tcp.pdb
+C:\Users\artem\OneDrive\Рабочий стол\documents\lebedev\C#_web\tcp\tcp\obj\Debug\tcp.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\documents\lebedev\C#_web\tcp\tcp\obj\Debug\tcp.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\documents\lebedev\C#_web\tcp\tcp\obj\Debug\tcp.exe
+C:\Users\artem\OneDrive\Рабочий стол\documents\lebedev\C#_web\tcp\tcp\obj\Debug\tcp.pdb
